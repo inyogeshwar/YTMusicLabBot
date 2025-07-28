@@ -1,0 +1,5 @@
+# Simple Music Bot Requirements
+python-telegram-bot==22.3
+yt-dlp==2024.12.13
+python-dotenv==1.0.1
+requests==2.31.0
